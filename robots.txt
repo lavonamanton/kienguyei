@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wohtheing.themavenist.org/sitemap.xml
